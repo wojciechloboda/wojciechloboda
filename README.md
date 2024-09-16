@@ -1,8 +1,8 @@
 ## Hi there, I'm Wojciech 👋
 
 - 💻 Engineer at @swmansion.
-- 🧑‍🎓 Computer Science dtudent.
-- 🛰️ Embedded Systems developer.
+- 🧑‍🎓 Computer Science student.
+- 🛰️ Embedded systems developer.
 - 🪞 Interested in Computer Graphics.
 
 <!--
