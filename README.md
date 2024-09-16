@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Wojciech 👋
+
+- 💻 Engineer at @swmansion.
+- 🧑‍🎓 Computer Science Student.
+- 🛰️ Embedded systems developer.
+- 🪞 Interested in Computer Graphics.
 
 <!--
 **wojciechloboda/wojciechloboda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
