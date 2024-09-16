@@ -2,7 +2,7 @@
 
 - 💻 Engineer at @swmansion.
 - 🧑‍🎓 Computer Science Student.
-- 🛰️ Embedded systems developer.
+- 🛰️ Embedded Systems developer.
 - 🪞 Interested in Computer Graphics.
 
 <!--
